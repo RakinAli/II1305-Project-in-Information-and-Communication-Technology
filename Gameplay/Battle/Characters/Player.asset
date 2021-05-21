@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8788c26c33354581f5a9af927a568, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  name: Player
+  description: 
+  frontSprite: {fileID: -5947465611462936040, guid: 94a769deb2972ef44baadb94e4cdee81, type: 3}
+  backSprite: {fileID: 21300000, guid: 1ca0e0d3a5eb842c4bfc7360fc043b8e, type: 3}
+  type1: 1
+  type2: 2
+  maxHP: 55
+  attack: 30
+  defense: 30
+  spAttack: 30
+  spDefense: 30
+  speed: 50
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 15c47db87b883344a8ec532c01f472e7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 69e2fe44bb694ec4180f68435db078c7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1eeb83c0b279c96479d652955f975b3b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bdd8af79680aa8449822b0598c8f99b8, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c7bce9b40601e7746b65c6ef8a2ffa0b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 512efcf24ec13704198a47e6fea77200, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0d539cbee1595584f895118c374952e0, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2106fba4ec468da47b9ddfa69b0f9b5a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 439f57f5a724d4848979cc3f822a9c6b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9c0c1b0945479e241867ad5ac7b5017d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b61f43a8239cca446a92c6d283c3ac2d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5ae3ee25f511faf488ff2b6f82e9df67, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9244aa66cd85e7c489ca7e244d8c4912, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: de27407bd510fb24e89c692fb80091a5, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 3ec55eb49ff3ea044af953c1df3c89ec, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ef5f8e94e9cfcd84aa2fd57cd7fb7d83, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c96fafa62dfec7045a614d7a68d0698a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d2918e0277c76c64a8addb32a72a194b, type: 2}
+    level: 1
+  quizMoves: []

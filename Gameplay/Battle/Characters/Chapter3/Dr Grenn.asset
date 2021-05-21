@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8788c26c33354581f5a9af927a568, type: 3}
+  m_Name: Dr Grenn
+  m_EditorClassIdentifier: 
+  name: Dr.Grenn
+  description: 
+  frontSprite: {fileID: 21300000, guid: 8d7d43040113c404b833ff5c62d67bbf, type: 3}
+  backSprite: {fileID: -6259977921511391637, guid: 77d9f90320a075e4d8a72dd3f4cbf495, type: 3}
+  type1: 3
+  type2: 3
+  maxHP: 100
+  attack: 150
+  defense: 55
+  spAttack: 55
+  spDefense: 55
+  speed: 55
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 9cd0d2f3ecb060644aa23ca7daf03756, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 54e49d30ae507ff47818c3810d170d0a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4de65db4d79b6644a8b865d1e388d305, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 31fc5b24a848e714cb8f8cbeed1e71d4, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d222f000e7acb6243b4ea5d85960fd20, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 396435b6eaac5474fa93a3c7fe7ba22c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6777a27a183a1db408d52564d2b6a439, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e9fb2692d329cf74fa24d74ff15724db, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f59e850769d376f49bf35ee7af111feb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8b991f6813a7b3b4690e104563e43cbc, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 24bc99da796d3e042a5054b87590bdd1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ae0e15966876316468a1b034f170549f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b70ba31203791474085623c88e4ef8ea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9bafff09d1d9cce45afc81d0d0c9b5cd, type: 2}
+    level: 1
+  quizMoves:
+  - moveBase: {fileID: 11400000, guid: 9e3fe0aceb736a64d9e2dbd936f0178b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b85df24544580b7469bd405e4c827bd7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a5e323f97666b1c4e94e39abf2e13268, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 57cde9f76f7c495428dda7e32cc84258, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f34bace94b27f284c843687f4e066d97, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f7aeca25a34613544ad005dcd56c4093, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 03afa3d9aee334147892780b3fc29400, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6963314d1a12757438a8fcabd8ed2e49, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9448e3266a19a064da3ec796a5791266, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c79bcec5c3db95d4dbe6d14367dd1e34, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f1a7fbaf00163fb46830bfccf32bb36e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e48314f6871e5f3438b921b0302cabac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b1660b3629f2f2044981ec245c29b3a7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2fe91ba4895e7fa4497f8450d04c7ddb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e0a3d585c739c5c419d764f33c947f55, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0330a78c60645984fb0776938129aaa9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8e2944e4c2fed5948ab6f68f4b402b1e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1a30512fa85d72741b1c07e07d9e17cf, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 11cd99f16e895904f80bf090be995032, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bd8ccc53e9b7ed34382ecadddeade7a9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 7cad1b5cfff9b7b4c8a91e2c23f778f9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e7b3c6a36b5fec346a0cc3c5f498afc2, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: eba0bd3569893d8499df5745e23ffd73, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f075487d97a89f4459a722a2435507bf, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 45f2a48fbc38bb44aaf384f67f8ecd0b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 13330b847ab9e0b429c2589b67fba57e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d214841ee103a1a4b969678410d1631d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 91f6e57f1d39b254bbbe19434f611b53, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9e8c4f0437317b54db49f7836440c5e6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6ea452412560ef54bb8e9359550d80ec, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8a5c8202e91b14141b83b27e8ca648ac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d05519fc4f5b4df41a298c9cb2f3ed15, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0114278f79cd7b14eb42798f55f6038f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d6363bc68652061418013960e844d1c7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ccd65dcccf2ed1644a7b767f8c53fe76, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 17a8f49ba4bef034594ad2fe1e45eaaf, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4ed82770b58db7d41bb61bc9473db0d9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 61ffffc19ccfb9241a9b1f31a951e676, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8b3788635294520448753be542b94c47, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ef83f927d6ec98d4e9511e9f98147056, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4ed82770b58db7d41bb61bc9473db0d9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 25c7d497b4db8514c9775413f62d7631, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 73d276c42cc78cd438277cf58d56b435, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 919b592f7ceb6ea408562849180fe9a6, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8cf60a08a8f81004a8c354d5fcf5c418, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1de1dd3dd25b7fb4e8d9a78f301d0a86, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b1d09826f7f51f547a35fa224f4be7e1, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 39b47c0be9aafad459490197e1aaca5f, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 128cdc448d185d04791258aa668f14e7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 524abd43bf3ef1e41af9621dc7325e63, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: fd5e7f0d79c2a654991e0c4c0d402b57, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 654765e6728c5d84786f250ccffc06fb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 77898130415f64a488ee349275353bd5, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ab7c48c59f056af48b1c9a8177cc4eea, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0167a0565e8449a41b3325ffad589f2d, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 67e56c725f6808940856fdf4acb813b0, type: 2}
+    level: 1

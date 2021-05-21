@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8788c26c33354581f5a9af927a568, type: 3}
+  m_Name: Dr Grenns Victim
+  m_EditorClassIdentifier: 
+  name: Dr.Grenn
+  description: 
+  frontSprite: {fileID: 21300000, guid: ade5460864b3afd4c8f76369fa6aab62, type: 3}
+  backSprite: {fileID: -6259977921511391637, guid: 77d9f90320a075e4d8a72dd3f4cbf495, type: 3}
+  type1: 3
+  type2: 3
+  maxHP: 30
+  attack: 55
+  defense: 55
+  spAttack: 55
+  spDefense: 55
+  speed: 55
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 9cd0d2f3ecb060644aa23ca7daf03756, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 54e49d30ae507ff47818c3810d170d0a, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 4de65db4d79b6644a8b865d1e388d305, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 31fc5b24a848e714cb8f8cbeed1e71d4, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: d222f000e7acb6243b4ea5d85960fd20, type: 2}
+    level: 1
+  quizMoves:
+  - moveBase: {fileID: 11400000, guid: 9e3fe0aceb736a64d9e2dbd936f0178b, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b85df24544580b7469bd405e4c827bd7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: a5e323f97666b1c4e94e39abf2e13268, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 57cde9f76f7c495428dda7e32cc84258, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f34bace94b27f284c843687f4e066d97, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f7aeca25a34613544ad005dcd56c4093, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 03afa3d9aee334147892780b3fc29400, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 6963314d1a12757438a8fcabd8ed2e49, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 9448e3266a19a064da3ec796a5791266, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: c79bcec5c3db95d4dbe6d14367dd1e34, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f1a7fbaf00163fb46830bfccf32bb36e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e48314f6871e5f3438b921b0302cabac, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: b1660b3629f2f2044981ec245c29b3a7, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2fe91ba4895e7fa4497f8450d04c7ddb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: e0a3d585c739c5c419d764f33c947f55, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 0330a78c60645984fb0776938129aaa9, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 8e2944e4c2fed5948ab6f68f4b402b1e, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 1a30512fa85d72741b1c07e07d9e17cf, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 11cd99f16e895904f80bf090be995032, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: bd8ccc53e9b7ed34382ecadddeade7a9, type: 2}
+    level: 1

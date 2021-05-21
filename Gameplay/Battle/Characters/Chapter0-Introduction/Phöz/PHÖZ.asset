@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc8788c26c33354581f5a9af927a568, type: 3}
+  m_Name: "PH\xD6Z"
+  m_EditorClassIdentifier: 
+  name: "PH\xD6Z"
+  description: 
+  frontSprite: {fileID: 21300000, guid: b5c701beba9578e4a8029f6f60925d92, type: 3}
+  backSprite: {fileID: 0}
+  type1: 3
+  type2: 0
+  maxHP: 40
+  attack: 50
+  defense: 40
+  spAttack: 40
+  spDefense: 40
+  speed: 40
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 609e9259176a7438191580a326757e3c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: f4dd04ab4077d404eaad20de0146748c, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: ea1961ca49c0f41be9ee98f37af74d06, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 2ecd858429df148cea8ea32ac5a7d5cb, type: 2}
+    level: 1
+  - moveBase: {fileID: 11400000, guid: 5fe4508f7d3f34df3b2744c1b8ee8523, type: 2}
+    level: 1
+  quizMoves:
+  - moveBase: {fileID: 11400000, guid: 409a69d6e99d6484e960ae78fc12ef44, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: f4b530258566b45948381a123fee7297, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: e63f60aadf0ea41bfbcfb847a58f7c4e, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 4aa67ada69e364de3b6b6f012fabaa55, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 6c6f7c31773754dd6aa78b228a5f19df, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 182ae25981eea402eafc1ea3d1c17a41, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: a04e2d815480c4119ac5817dd6cb9539, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: c0ba5555566c1412c8dec1775f9bfff6, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: ed14cac1483984fabbf5360d3350e123, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 52b9f35a960e742ab9ad542ddd1db22c, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 30b57224675364a56b8fa5a4db0a51c4, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 6c3ddb7837e874fbd9ecccd792b19320, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 7225d337161ce475f8935d020c68cc80, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: b8264b2a23d1340c1bed43b047e10294, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: dea551be1af4b4af2b21f7a519bae136, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: b74e4145c2c8d4063ae6d6efb80d887e, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: ed2dff54c16204c2c8cabb96dc5d6427, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 7b0a31e4c0a4240b7ab55853c18a8adc, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 925944b701e9947de8cd05aa17d7c768, type: 2}
+    level: 0
+  - moveBase: {fileID: 11400000, guid: 5ffd3803372674926a84d740dba574aa, type: 2}
+    level: 0
